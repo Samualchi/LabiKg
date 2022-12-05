@@ -1,0 +1,11 @@
+C:\Users\denis\source\repos\Labi\Labi\bin\Debug\Labi.exe.config
+C:\Users\denis\source\repos\Labi\Labi\bin\Debug\Labi.exe
+C:\Users\denis\source\repos\Labi\Labi\bin\Debug\Labi.pdb
+C:\Users\denis\source\repos\Labi\Labi\obj\Debug\Labi.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Labi\Labi\obj\Debug\Labi.Form1.resources
+C:\Users\denis\source\repos\Labi\Labi\obj\Debug\Labi.Properties.Resources.resources
+C:\Users\denis\source\repos\Labi\Labi\obj\Debug\Labi.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\Labi\Labi\obj\Debug\Labi.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Labi\Labi\obj\Debug\Labi.exe
+C:\Users\denis\source\repos\Labi\Labi\obj\Debug\Labi.pdb
+C:\Users\denis\source\repos\Labi\Labi\obj\Debug\Labi.Hist.resources
